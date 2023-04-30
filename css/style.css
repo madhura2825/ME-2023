@@ -1,0 +1,21 @@
+.input {
+    border-radius: 100px;
+     border: 2px solid green;
+      font-size: large;
+       font-style: italic;
+}
+.input1 {
+ 
+    border-radius: 100px;
+     border: 2px solid green;
+      font-size: large; 
+      font-style: italic;
+}
+#btn {
+ padding-left: 25px;
+ padding-right: 25px; 
+ border-radius: 100px; 
+ border-color: coral; 
+ border;
+ background-color: darkkhaki; 
+}
